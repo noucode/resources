@@ -10,6 +10,6 @@ data:
     p, role:developer, applications, *, */*, allow                   
     g, role:developer, role:readonly                                 
 
-    g, <username>, role:developer                                    
+    g, noucode, role:developer                                    
 
   scopes: '[groups, preferred_username]'
